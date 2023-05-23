@@ -42,4 +42,4 @@ Eventuella ikoner hämtas från FontAwesome och går att ladda in via CDN.
 
 ---
 
-**Lycka till!**
+## Lycka till!
