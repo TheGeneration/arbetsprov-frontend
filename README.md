@@ -6,7 +6,7 @@ Detta är ett fiktivt case för att bygga upp en startsida utifrån en designski
 
 ---
 
-#### Instruktioner
+## Instruktioner
 
 Ladda ner detta repo och konvertera till ett eget privat repo. När du känner dig klar bjuder du in nils@thegeneration.se till repot.
 
@@ -20,22 +20,22 @@ Ladda ner detta repo och konvertera till ett eget privat repo. När du känner d
   lösas enligt best practice. Huvudmenyn bör gömmas och få en ikon för att fällas ut.
 - Styling och Javascript får inte vara inline, det måste länkas in.
 
-#### Meta-inställningar
+## Meta-inställningar
 
 **Titel:** Arbetsprov [Ditt namn]
 **Beskrivning:** En komplett webbplats med stilren design
 
 ## Material
 
-#### Bilder
+### Bilder
 
 Alla bilderna finns i mappen "Images" i detta repo.
 
-#### Typsnitt
+### Typsnitt
 
 Typsnitten som används är **Epilogue** (vikt: 700) och **Inter** (vikt: 400, 500) och finns att hämta [här](https://fonts.google.com/share?selection.family=Epilogue:wght@700%7CInter:wght@400;500).
 
-#### Ikoner
+### Ikoner
 
 Eventuella ikoner hämtas från FontAwesome och går att ladda in via CDN.
 
