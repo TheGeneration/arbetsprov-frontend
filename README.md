@@ -4,11 +4,9 @@
 
 Detta är ett fiktivt case för att bygga upp en startsida utifrån en designskiss i Figma. Ditt arbete kommer inte att användas till något annat än att bedöma dina kunskaper och din förmåga att planera, strukturera och bygga en site utifrån en design.
 
----
+## För att komma igång laddar du ner detta repo och konvertera till ett eget privat repo.
 
 ## Instruktioner
-
-Ladda ner detta repo och konvertera till ett eget privat repo.
 
 - Sidan ska vara byggd med HTML utan något CMS eller Javascripts-ramverk likt React, Angular eller Vue.
 - Designskissen som ska byggas hittar du [här](https://www.figma.com/file/k9jUMEyiQHg3KdagmPdZ70/Arbetsprov-Frontend?type=design&node-id=2281-17219&t=xOPMT3pa3Ibw4QyY-0). Bygg den vänstra skissen och välj sedan minst två av de valbara sektionerna och implementera på valfri plats.
