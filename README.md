@@ -3,8 +3,8 @@
 # Arbetsprov frontendutvecklare
 
 Detta är ett fiktivt case för att bygga upp en startsida utifrån en designskiss i Figma. Ditt arbete kommer inte att användas till något annat än att bedöma dina kunskaper och din förmåga att planera, strukturera och bygga en site utifrån en design.
-
-## För att komma igång laddar du ner detta repo och konvertera till ett eget privat repo.
+\
+För att komma igång laddar du ner detta repo och konvertera till ett eget privat repo.
 
 ## Instruktioner
 
