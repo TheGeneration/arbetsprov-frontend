@@ -8,7 +8,7 @@ Detta är ett fiktivt case för att bygga upp en startsida utifrån en designski
 
 ## Instruktioner
 
-Ladda ner detta repo och konvertera till ett eget privat repo. När du känner dig klar bjuder du in nils@thegeneration.se till repot.
+Ladda ner detta repo och konvertera till ett eget privat repo.
 
 - Sidan ska vara byggd med HTML utan något CMS eller Javascripts-ramverk likt React, Angular eller Vue.
 - Designskissen som ska byggas hittar du [här](https://www.figma.com/file/k9jUMEyiQHg3KdagmPdZ70/Arbetsprov-Frontend?type=design&node-id=2281-17219&t=xOPMT3pa3Ibw4QyY-0). Bygg den vänstra skissen och välj sedan minst två av de valbara sektionerna och implementera på valfri plats.
@@ -41,5 +41,7 @@ Typsnitten som används är **Epilogue** (vikt: 700) och **Inter** (vikt: 400, 5
 Eventuella ikoner hämtas från FontAwesome och går att ladda in via CDN.
 
 ---
+
+När du känner dig klar bjuder du in kontaktpersonen till repot och meddelar hur lång du la ner på arbetet.
 
 ## Lycka till!
