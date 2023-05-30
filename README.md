@@ -40,6 +40,6 @@ Eventuella ikoner hämtas från FontAwesome och går att ladda in via CDN.
 
 ---
 
-När du känner dig klar bjuder du in kontaktpersonen till repot och meddelar hur lång du la ner på arbetet.
+När du känner dig klar bjuder du in kontaktpersonen till repot och meddelar hur mycket tid du la ner på arbetet.
 
 ## Lycka till!
